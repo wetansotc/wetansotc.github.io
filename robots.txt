@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wetansotc.github.io/sitemap.html.gz
+Sitemap: https://wetansotc.github.io/app/sitemap.html.gz
+Sitemap: https://wetansotc.github.io/assets/sitemap.html.gz
+Sitemap: https://wetansotc.github.io/css/sitemap.html.gz
+Sitemap: https://wetansotc.github.io/data/sitemap.html.gz
+Sitemap: https://wetansotc.github.io/includes/sitemap.html.gz
+Sitemap: https://wetansotc.github.io/item/sitemap.html.gz
+Sitemap: https://wetansotc.github.io/src/sitemap.html.gz
